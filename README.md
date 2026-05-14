@@ -66,21 +66,6 @@ calculator/
 
 ![Calculator Screenshot 2](src/images/calculator-project-ss2.png)
 
----
-
-## How to Run
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start development server:
-
-```bash
-npm run dev
-```
 
 ---
 
