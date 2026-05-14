@@ -12,11 +12,6 @@ https://vikash-kherwa.github.io/react-calculator-app/
 
 ---
 
-## GitHub Repository
-
-https://github.com/vikash-kherwa/react-calculator-app
-
----
 
 ## Features
 
@@ -102,14 +97,6 @@ Through this project, I practiced:
 
 ---
 
-## Future Improvements
-
-- Add keyboard support
-- Improve calculator UI
-- Add dark mode
-- Replace eval() with safer logic
-
----
 
 ## Preview
 
